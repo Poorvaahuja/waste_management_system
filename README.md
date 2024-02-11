@@ -1,6 +1,6 @@
 # Waste Segregation Deep Learning Model - Predicting the class of the waste
 
-# Average Accuracy - 75%
+# **Average Accuracy - 75%**
 
 # DEPLOYED PART
 
