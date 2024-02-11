@@ -2,7 +2,7 @@
 
 PREDICTING THE CLASS OF THE WASTE
 
-*Average Accuracy - 75%*
+**Average Accuracy - 75%**
 
 ### MODEL DEMO
 
