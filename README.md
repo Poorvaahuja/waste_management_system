@@ -3,11 +3,23 @@
 PREDICTING THE CLASS OF THE WASTE
 
 Model Demo
+<img width="666" alt="Screenshot 2024-02-11 160113" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/8488a18b-5519-49e5-b32c-0bc8bd2eed20">
 
 <img width="923" alt="image" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/2b38e7f9-0424-4dde-bfc2-199084c43e26">
 
 
 <img width="728" alt="Screenshot 2024-02-09 192856" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/cc02f339-97b3-4c84-ba88-13079db26030">
+
+
+### SITE DEMO
+
+<img width="959" alt="Screenshot 2024-02-11 155848" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/01df24e8-dddd-4cc5-bf25-38b2a2f7d700">
+
+
+![Uploading Screenshot 2024-02-11 160113.png…]()
+
+
+<img width="956" alt="image" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/0c5ab77c-965f-4dde-a908-473b2fc7343c">
 
 ## Overview
 The repository contains a deep learning model designed for waste segregation, categorizing waste into organic and recyclable classes. The model leverages the ResNet50 architecture and is implemented using TensorFlow and Keras.
