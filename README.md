@@ -4,6 +4,12 @@ PREDICTING THE CLASS OF THE WASTE
 
 **Average Accuracy - 75%**
 
+# DEPLOYED PART
+
+The model has been successfully deployed using Flask and is on the verge of going live on PythonAnywhere. 
+Initially, we considered utilizing Streamlit for hosting the model, but encountered challenges and opted for a different approach. The journey involved downloading a pickle file using the Pickle library, and later transitioning to an HDF5 file for model storage and retrieval. Spyder was explored as a potential option, leading to two days of experimentation with various frameworks. Despite reaching the final stages of deployment with Ngrok, unforeseen API issues disrupted the process. We persistently pursued alternatives, highlighting our commitment to overcoming challenges and delivering a seamless user experience.
+
+
 ### MODEL DEMO
 
 <img width="923" alt="image" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/2b38e7f9-0424-4dde-bfc2-199084c43e26">
@@ -21,9 +27,6 @@ PREDICTING THE CLASS OF THE WASTE
 
 ## Overview
 The repository contains a deep learning model designed for waste segregation, categorizing waste into organic and recyclable classes. The model leverages the ResNet50 architecture and is implemented using TensorFlow and Keras.
-
-The model has been successfully deployed using Flask and is on the verge of going live on PythonAnywhere. 
-Initially, we considered utilizing Streamlit for hosting the model, but encountered challenges and opted for a different approach. This involved downloading a pickle file using the Pickle library, and later transitioning to an HDF5 file for model storage and retrieval. Spyder was explored as a potential option, leading to two days of experimentation with various frameworks. Despite reaching the final stages of deployment with Ngrok, unforeseen API issues disrupted the process. We persistently pursued alternatives, highlighting our commitment to overcoming challenges and delivering a seamless user experience.
 
 ## Tech Stack
 
