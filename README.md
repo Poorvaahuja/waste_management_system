@@ -2,11 +2,9 @@
 # Waste Segregation Deep Learning Model
 PREDICTING THE CLASS OF THE WASTE
 
-Model Demo
-<img width="666" alt="Screenshot 2024-02-11 160113" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/8488a18b-5519-49e5-b32c-0bc8bd2eed20">
+### MODEL DEMO
 
 <img width="923" alt="image" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/2b38e7f9-0424-4dde-bfc2-199084c43e26">
-
 
 <img width="728" alt="Screenshot 2024-02-09 192856" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/cc02f339-97b3-4c84-ba88-13079db26030">
 
@@ -14,7 +12,6 @@ Model Demo
 ### SITE DEMO
 
 <img width="960" alt="Screenshot 2024-02-11 155804" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/bd491659-4f11-42cc-b23d-b80c53119e3f">
-
 
 <img width="959" alt="Screenshot 2024-02-11 155848" src="https://github.com/Poorvaahuja/waste_management_system/assets/122693422/01df24e8-dddd-4cc5-bf25-38b2a2f7d700">
 
